@@ -1,0 +1,81 @@
+﻿body #s4-workspace .spacing-on {
+	line-height:32px;
+}
+#s4-workspace .spacing-on {
+	line-height:32px;
+}
+.spacing-on .wrapper, .spacing-on .footer, .spacing-on #footer-info {
+	line-height:32px;
+}
+
+
+.spacing-on p, .spacing-on h1 {
+	line-height:32px;
+	vertical-align:middle;
+}
+
+.spacing-on .hp-banner-left, .spacing-on .hp-banner-right{
+	line-height:32px;
+	vertical-align:middle;
+	padding-top:0;
+}
+.spacing-on .menu-nav li a.home-menu-button {
+	height:50px;
+}
+.spacing-on a.label-catalog-vezi-servicii {
+	height:auto;
+} 
+
+.spacing-on  div.domenii-interes a.csslink-domenii-interes, .spacing-on div.domenii-interes-long a.csslink-domenii-interes {
+    background: rgba(0, 0, 0, 0) url("imagini/domenii-link-icon.jpg") no-repeat scroll 0 20px; 
+}
+
+.spacing-on .div-paragraf span, .spacing-on .cssDescriereServiciu span {
+	line-height:32px;
+	vertical-align:middle;
+} 
+
+.spacing-on .domeniu-title, .spacing-on .domeniu-title, .spacing-on #cssmenu ul ul li a {
+	line-height:32px;
+	vertical-align:middle;
+} 
+
+.spacing-on .content-left-sidebar ul li {
+    background: rgba(0, 0, 0, 0) url("imagini/content-list-bullet.png") no-repeat scroll 12px 18px;
+}
+
+.spacing-on .domenii-interes-sidebar ul li a, .lista-fisiere-atasate ul li {
+    background: rgba(0, 0, 0, 0) url("imagini/sidebar-list-arrow.png") no-repeat scroll 10px 14px;
+}
+
+.spacing-on input.cssButon, .spacing-on input.cssStergeFiltre, .spacing-on input.cssSalveazaButon, .spacing-on a.cssSalveazaButon, .spacing-on button.cssSalveazaButon, .spacing-on a.cssButonBig {
+    line-height: 32px;
+}
+.spacing-on .cssButonBig {
+	padding-top:18px;
+	padding-bottom:18px;
+
+}
+
+.spacing-on input.cssButonInapoi, a.cssButonInapoi {
+	line-height:32px;
+}
+
+.spacing-on .pnlCautaCatalog input, .spacing-on .tblCells input, .spacing-on .solicitari input, .spacing-on .solicitari textarea {
+	line-height:32px;
+}
+
+.spacing-on .login-right table td {
+	line-height:32px;
+}
+.spacing-on .login-rows input:focus, .spacing-on .login-rows input:active, .spacing-on .login-rows input::after {
+	line-height:32px;
+}
+.spacing-on .linkuri-login a {
+	padding-top:16px;	
+	padding-bottom:16px;
+	display:inline-block;
+}
+
+
+

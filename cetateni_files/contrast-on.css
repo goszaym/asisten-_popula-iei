@@ -1,0 +1,438 @@
+﻿body #s4-workspace .contrast-on {
+	background-image: none !important;
+	background-color: #000 !important;
+}
+#s4-workspace .contrast-on {
+	background-image: none !important;
+	background-color: #000 !important;
+}
+.contrast-on .wrapper, .contrast-on .footer, .contrast-on #footer-info {
+	background-color: #000;
+}
+.contrast-on textarea, .contrast-on input, .contrast-on button, .contrast-on select {
+	background-color: black !important;
+    border: 1px solid yellow !important;
+    color: yellow;
+}
+.contrast-on p, .contrast-on h1, .contrast-on h2, .contrast-on h3, .contrast-on h4, .contrast-on a h1, .contrast-on a h2, .contrast-on a h3, .contrast-on a h4, .contrast-on h1 a, .contrast-on h2 a, .contrast-on h3 a, .contrast-on h4 a, .contrast-on label, .contrast-on option {
+	color: yellow;
+}
+.contrast-on a, .contrast-on a:active, .contrast-on a:visited  {
+	color: yellow;
+	text-decoration: underline;
+}
+.contrast-on a:hover {
+	color: white;
+	text-decoration: none;
+}
+.contrast-on #homepage-banner {
+	background-color: #000;
+	background-image: none;
+}
+.contrast-on #header-wrapper {
+	background-image: none;
+	border-bottom: 1px solid yellow;
+}
+.contrast-on .top-header-bar, .contrast-on ul.menu-nav ul, .contrast-on .main-user-menu-top li ul {
+	background-color: #000;
+}
+.contrast-on .top-header-links ul li, .contrast-on .top-header-links a, .contrast-on .menu-nav li a, .contrast-on .main-user-menu-top li a, .contrast-on .top-header-search {
+	color: yellow;
+}
+.contrast-on .top-header-search {
+	border-left: 1px solid yellow;
+    border-right: 1px solid yellow;
+}
+.contrast-on ul.menu-nav ul, .contrast-on .main-user-menu-top li ul {
+	border: 1px solid #fff;
+}
+.contrast-on .menu-lanseaza-solicitare {
+	color: yellow !important;
+}
+.contrast-on .menu-nav li a.home-menu-button {
+	background: url(imagini/home-menu-button-contrast.png) center center no-repeat;
+}
+.contrast-on ul.main-user-menu-top {
+	background-color: #000;
+    border-bottom: 1px solid yellow;
+}
+.contrast-on .main-user-menu-top li {
+	border-right: 1px solid yellow;
+}
+.contrast-on ul.main-user-menu-top ul li {
+	border-right: none;
+}
+.contrast-on #homepage-banner .hp-banner-left h1, .contrast-on #homepage-banner .hp-banner-right h1, .contrast-on #homepage-banner .hp-banner-left ul li a, .contrast-on #homepage-banner .hp-banner-right ul li a {
+	color:yellow;
+}
+.contrast-on .hp-banner-left span a, .contrast-on .hp-banner-right span a {
+	background-color: yellow;
+	border:1px solid yellow;
+	color: #000;
+}
+.contrast-on .hp-banner-left span a:hover, .contrast-on .hp-banner-right span a:hover {
+	background-color: #000;
+	border:1px solid yellow;
+	color: yellow;
+}
+.contrast-on .hp-servicii-accesate a {
+	background-image: none;
+	padding-left: 0;
+}
+.contrast-on .hp-servicii-accesate, .contrast-on .hp-stiri, .contrast-on .hp-depune-petitie, .contrast-on .hp-infiinteaza-firma {
+	background: #000;
+    border: 1px solid yellow;
+    color: yellow;
+   min-height:100px;
+}
+.contrast-on .hp-servicii-accesate a, .contrast-on .hp-stiri a, .contrast-on .hp-depune-petitie a, .contrast-on .hp-infiinteaza-firma a {
+	color:yellow;
+	height:auto;
+}
+.contrast-on .hp-servicii-accesate img , .contrast-on .hp-stiri img, .contrast-on .hp-depune-petitie img, .contrast-on .hp-infiinteaza-firma img {
+	display: none;
+}
+.contrast-on .hp-stiri a:hover > h1, .contrast-on .hp-depune-petitie a:hover > h1, .contrast-on .hp-infiinteaza-firma a:hover > h1 {
+    color: yellow;
+}
+.contrast-on .hp-servicii-accesate {
+	height: 90px;
+}
+.contrast-on ul.bjqs-controls {
+	display:none;
+}
+/* **************************/
+.contrast-on .menu-nav li a:hover {
+	text-decoration:underline;
+	color:yellow;
+}
+.contrast-on .main-user-menu-top li a:hover {
+	text-decoration:underline;
+	color:yellow;
+}
+.contrast-on ul.menu-nav ul, .contrast-on .main-user-menu-top li ul {
+    border: 1px solid yellow;
+}
+.contrast-on ul.menu-nav ul li:first-child a::after {
+    background: rgba(0, 0, 0, 0);
+    background-image:none;
+    content: "^";
+    height: 10px;
+    left: 10px;
+    position: absolute;
+    top: -30px;
+    width: 19px;
+}
+.contrast-on .menu-nav li a.menu-link-catalog{
+	color: yellow;
+}
+
+
+.contrast-on h1.page-title, .contrast-on .css-titlu-pagina {
+	color: yellow;
+}
+.contrast-on .cssPanel {
+    background-color: #000;
+}
+
+.contrast-on a.alege-persoana-fizica, .contrast-on a.alege-mediu-afaceri {
+    border: 1px solid yellow;
+	color:yellow;
+	background-color:#000;
+	background-image: none;
+	height: auto;
+}
+.contrast-on .alege-persoana-fizica h1, .contrast-on .alege-mediu-afaceri h1 {
+	color:yellow;
+}
+.contrast-on a.alege-persoana-fizica:hover > h1, .contrast-on a.alege-mediu-afaceri:hover > h1 {
+    background-image: none;
+    color: white;
+    text-decoration: none;
+}
+.contrast-on .domenii-interes-sidebar {
+    background-color: #000;
+    border: 1px solid yellow;
+    border-radius: 3px;
+}
+.contrast-on .domenii-interes-sidebar h1.selected {
+    background: yellow;
+    background-image:none;
+    color: #000;
+}
+.contrast-on .domenii-interes-sidebar ul li {
+    border-top: 1px solid yellow;
+}
+.contrast-on .domenii-interes-sidebar ul li a, .contrast-on.lista-fisiere-atasate ul li {
+    background: rgba(0, 0, 0, 0) url("imagini/sidebar-list-arrow-contrast.png") no-repeat scroll 10px 9px;
+    color: yellow;
+}
+.contrast-on .domenii-interes-sidebar h1 {
+	background: rgba(0, 0, 0, 0) url("imagini/sidebar-list-arrow-contrast.png") no-repeat scroll 10px center;
+}
+.contrast-on .domenii-interes-sidebar h1 a {
+    color: yellow;
+}
+.contrast-on .content-left-sidebar {
+    background-color: #000;
+    border: 1px solid yellow;
+ 	color:yellow;
+}
+.contrast-on .content-left-sidebar h1, .contrast-on .content-left-sidebar h2 {
+    border-bottom: 1px solid yellow;
+}
+.contrast-on .content-left-sidebar ul li {
+    background: none;
+}
+.contrast-on .content-left-sidebar ul li:before  {
+    content: "• ";
+    color: yellow; 
+}
+.contrast-on #cssmenu ul li {
+    border: 1px solid yellow;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+}
+.contrast-on #cssmenu > ul > li > a {
+    background: #000 none no-repeat scroll left center;
+    color: yellow;
+}
+.contrast-on #cssmenu > ul > li > a {
+    color: yellow;
+    font-weight: 600;
+}
+.contrast-on #cssmenu > ul > li > a:hover {
+    color: yellow;
+}
+.contrast-on #cssmenu ul li ul {
+    background-color: #000;
+    border-top: 1px solid #000;
+}
+.contrast-on #cssmenu ul ul li a {
+    background: rgba(0, 0, 0, 0) url("/imagini/domenii-link-icon-contrast.png") no-repeat scroll 17px center;
+    color: yellow;
+}
+.contrast-on #cssmenu ul ul li a:hover {
+    color: yellow;
+}
+
+.contrast-on .has-sub{
+	background:#000 !important;
+}
+
+.contrast-on #cssmenu ul > li.has-sub > a::before {
+    background: yellow none repeat scroll 0 0;
+}
+.contrast-on #cssmenu ul > li.has-sub > a::after {
+    background: yellow none repeat scroll 0 0;
+}
+
+
+/********* FOOTER **********/
+.contrast-on #footer, .contrast-on #footer-info {
+    border-top: 1px solid yellow;
+    background:#000;
+}
+.contrast-on .footer-wrapper, .contrast-on #footer-info, .contrast-on #footer-info, .contrast-on #footer-info a {
+	color: yellow;
+	text-shadow: none;
+}
+.contrast-on .footer-wrapper a {
+	color: yellow;
+	text-decoration: none;
+}
+.contrast-on #footer-info ul li a {
+    color: yellow;
+}
+
+.contrast-on .stire-box, .contrast-on .stire-titlu, .contrast-on .stire-data {
+	background:#000;
+	color:yellow;
+}
+.contrast-on .stire-read-more, .contrast-on .stire-read-more:hover {
+	background:yellow !important;
+	color: #000 !important;
+}
+
+.contrast-on .select.stire-select-pag {
+	background:yellow;
+	color: #000 ;
+}
+.contrast-on .cssPanelVeziTot a {
+	background-color: black;
+	background-image: none;
+	border: 1px solid yellow;
+    color: yellow;
+    display: block;
+    font-size: 18px;
+    width: 661px;
+}
+.contrast-on .cssPanelServiciiDomeniiInteresPF, .contrast-on .cssPanelServiciiDomeniiInteresPJ, .contrast-on .cssPanelServiciiHarta {
+	border: 1px solid yellow;
+	margin-bottom: 45px;
+}
+.contrast-on .cssPanelServiciiHarta {
+	margin-bottom: 0;
+}
+.contrast-on .cssPanelServiciiDomeniiInteresPF div, .contrast-on .cssPanelServiciiDomeniiInteresPJ div {
+	background-color: #000;
+}
+.contrast-on .cssPanelServiciiDomeniiInteresPF h1, .contrast-on .cssPanelServiciiDomeniiInteresPJ h1, .contrast-on .cssPanelServiciiHarta h1 {
+	background-color: #000;
+}
+.contrast-on .cssServList a {
+	background: url('imagini/sidebar-list-arrow-contrast.png') 0 4px no-repeat;
+}
+.contrast-on .catalog-harta-link {
+	width: 321px;
+}
+.contrast-on a.label-catalog-vezi-servicii {
+	background: black url("imagini/white-arrow-button.png") no-repeat scroll 90% center;
+	border: 1px solid yellow;
+}
+.contrast-on .cssPanelServiciiDomeniiInteres div.domenii-interes, .contrast-on div.domenii-interes-long {
+	background: black none repeat scroll 0 0;
+    border: 1px solid yellow;
+}
+.contrast-on div.domenii-interes h2, .contrast-on div.domenii-interes-long h2 {
+	background-image: none;
+	border-bottom: 1px solid yellow;
+}
+.contrast-on div.domenii-interes h2 a, .contrast-on div.domenii-interes-long h2 a {
+	color: yellow;
+	font-weight: 600;
+}
+.contrast-on div.domenii-interes a.csslink-domenii-interes, .contrast-on div.domenii-interes-long a.csslink-domenii-interes {
+	background: rgba(0, 0, 0, 0) url("imagini/domenii-link-icon-contrast.png") no-repeat scroll 0 12px;
+	color: yellow;
+}
+/****** CATALOG PROCEDURI *******/
+
+.contrast-on .CssLiteraTitlu, .contrast-on .pnlCautaCatalog span {
+	color: yellow;
+}
+.contrast-on .pnlCatalogLitere {
+	background-color: black;
+    border: 1px solid yellow;
+}
+.contrast-on .cssButonLiteraSelectata, .contrast-on .cssButonLitera {
+	border-right: 1px solid yellow !important;
+	border-bottom: none !important;
+	border-left: none !important;
+	border-top: none !important;
+	width: 24.5px;
+}
+.contrast-on .cssProcOper, .contrast-on .cssProcInfo, .contrast-on .rezultate-gasite {
+	color: yellow;
+}
+.contrast-on .cssProcOper {
+	background: rgba(0, 0, 0, 0) url("imagini/domenii-link-icon-contrast.png") no-repeat scroll 0 center;
+}
+.contrast-on .cssLinkOperational {
+	background: rgba(0, 0, 0, 0) url("imagini/domenii-link-icon-contrast.png") no-repeat scroll 0 3px;
+}
+.contrast-on .pnlCautaCatalog {
+	background-color: black;
+    border: 1px solid yellow;
+}
+.contrast-on .pnlCautaCatalog input, .contrast-on .tblCells input, .contrast-on .solicitari input, .contrast-on .solicitari textarea, .contrast-on .pnlCautaCatalog select, .contrast-on .tblCells select, .contrast-on .solicitari select {
+	background-color: black;
+    border: 1px solid yellow;
+    color: yellow;
+}
+.contrast-on .cssButon, .contrast-on .cssStergeFiltre, .contrast-on .cssSalveazaButon {
+	background-color: black !important;
+    border: 1px solid yellow !important;
+    color: yellow !important;
+}
+.contrast-on input.cssButon:hover, .contrast-on input.cssStergeFiltre:hover, .contrast-on input.cssSalveazaButon:hover {
+	background-color: yellow !important;
+    border: 1px solid yellow !important;
+    color: #000 !important;
+}
+.contrast-on .paginatie-next-prev, .contrast-on .rezultate-first-page, .contrast-on .rezultate-prev-page, .contrast-on .rezultate-next-page, .contrast-on .rezultate-last-page {
+	background-color: yellow;
+}
+.contrast-on .rezultate-first-page {
+	background: yellow url("imagini/paginatie-arrow-first-black.png") no-repeat scroll center center !important; 
+}
+.contrast-on .rezultate-prev-page {
+	background: rgba(0, 0, 0, 0) url("imagini/paginatie-arrow-prev-black.png") no-repeat scroll center center !important;
+}
+.contrast-on .rezultate-next-page {
+	background: rgba(0, 0, 0, 0) url("imagini/paginatie-arrow-next-black.png") no-repeat scroll center center !important;
+}
+.contrast-on .rezultate-last-page {
+background: rgba(0, 0, 0, 0) url("imagini/paginatie-arrow-last-black.png") no-repeat scroll center center !important;
+}
+.contrast-on .editare-procedura-tabs input.cssButoaneTabSelectat, .contrast-on .editare-procedura-tabs input.cssButoaneTabSelectat:hover {
+	background-color: yellow !important;
+    border: 1px solid yellow;
+    color: #000 !important;
+}
+.contrast-on .editare-procedura-tabs input {
+	background-color: black;
+    border: 1px solid yellow;
+    color: yellow;
+
+}
+.contrast-on .editare-procedura-content {
+	background:#000;
+	border: 1px solid yellow;
+}
+.contrast-on .editare-procedura-content span {
+	color:yellow;
+}
+
+.contrast-on .tabel {
+	border: 1px solid yellow;
+}
+
+.contrast-on .tabel tr:hover > td{
+	background-color:#333;
+	color:yellow;		
+}
+
+.contrast-on .tabel td {
+	background:#000;
+	color:yellow;		
+}
+
+.contrast-on tr.tabel-header th, .contrast-on tr.tabel-header td  {
+    background-color: yellow;
+    color: #000;
+}
+.contrast-on .ui-jqgrid {
+	border:1px yellow solid;
+}
+.contrast-on .ui-jqgrid .ui-jqgrid-htable .ui-jqgrid-labels  {
+	background:yellow;
+	color:#000;
+}
+.contrast-on .ui-jqgrid .ui-jqgrid-htable .ui-search-toolbar {
+	background:yellow;
+	color:#000;
+}
+.contrast-on .solicitari, .contrast-on .solicitare-observatii-institutie, .contrast-on .css-solicitari-observatii span.cssTextBold span {
+	background:#000;
+	color:yellow;
+}
+.contrast-on .solicitare-observatii-institutie, .contrast-on .css-solicitari-observatii {
+	border:1px yellow solid;
+}
+
+.contrast-on .ui-jqgrid .ui-jqgrid-pager .ui-paging-pager, .contrast-on .ui-jqgrid .ui-jqgrid-toppager .ui-paging-pager, .contrast-on .ui-jqgrid .ui-pager-control .ui-pager-table td {
+	color: yellow;
+}
+.contrast-on #AfisareDocumenteIntrare table, .contrast-on #AfisareDocumenteIesire table, .contrast-on #vProXLegiAsociates table, .contrast-on #AfisareLegiAdaugaLege_LegNoi table {
+	border: 1px solid yellow !important;
+}
+.contrast-on #AfisareDocumenteIntrare table tr.ms-viewheadertr th, .contrast-on #AfisareDocumenteIesire table tr.ms-viewheadertr th, .contrast-on #vProXLegiAsociates table tr.ms-viewheadertr th, .contrast-on #AfisareLegiAdaugaLege_LegNoi table tr.ms-viewheadertr th {
+	background-color: yellow;
+    border-left: 1px solid black;
+    color: black;
+}
+.contrast-on #AfisareDocumenteIntrare table td, .contrast-on #AfisareDocumenteIesire table td, .contrast-on #vProXLegiAsociates table td, .contrast-on #AfisareLegiAdaugaLege_LegNoi table td {
+	background-color: black;
+    border: 1px solid yellow !important;
+    color: yellow;
+}

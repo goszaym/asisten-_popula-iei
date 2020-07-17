@@ -1,0 +1,114 @@
+﻿.textlarge .wrapper, .textlarge .menu-nav li a, .textlarge ul.menu-nav ul li a {
+    font-size:17px;
+}
+.textlarge .top-header-bar {
+	height: 50px;
+}
+.textlarge ul.menu-nav ul {
+	min-width: 275px;
+}
+
+.textlarge .hp-banner-left ul li, .textlarge .hp-banner-right ul li {
+	font-size: 21px;
+	margin-bottom: 6px;
+}
+
+/********** LOGIN ***********/
+
+.textlarge .login-form-content, .textlarge .login-right table td, .textlarge .login-rows input {
+	font-size: 17px;
+}
+
+/********** SERVICII ***********/
+
+.textlarge .cssPanelServiciiDomeniiInteresPF h1, .textlarge .cssPanelServiciiDomeniiInteresPJ h1, .textlarge .cssPanelServiciiHarta h1, .textlarge .cssServList a  {
+	font-size: 17px;
+}
+.textlarge a.label-catalog-vezi-servicii {
+	font-size: 17px;
+	height: auto;
+}
+.textlarge .cssPanelVeziTot a {
+	font-size: 20px;
+    padding: 14px 0;
+}
+.textlarge div.domenii-interes h2 a, .textlarge div.domenii-interes-long h2 a {
+	font-size: 18px;
+}
+.textlarge div.domenii-interes a.csslink-domenii-interes, .textlarge div.domenii-interes-long a.csslink-domenii-interes {
+	font-size: 16px;
+	background: url("imagini/domenii-link-icon.jpg") no-repeat scroll 0 16px;
+}
+.textlarge .pnlCatalogStanga {
+	width: 688px;
+}
+.textlarge .pnlCautaCatalog input, .textlarge .tblCells input, .textlarge .solicitari input, .textlarge .solicitari textarea {
+	font-size: 16px;
+}
+.textlarge .pnlCautaCatalog select, .textlarge .tblCells select, .textlarge .solicitari select {
+	font-size: 16px;
+}
+.textlarge input.cssButon, .textlarge input.cssStergeFiltre, .textlarge input.cssSalveazaButon {
+	font-size: 17px;
+}
+.textlarge .cssButonLiteraSelectata, .textlarge .cssButonLitera {
+	width: 25.4px;
+}
+.textlarge .csslabelsmall, .textlarge .csslabellarge {
+	font-size: 17px;
+}
+.textlarge .editare-procedura-content table tr.tabel-header th:nth-child(6) {
+	width: 80px;
+}
+
+/********** DOMENII DE ACTIVITATE **********/
+
+.textlarge #cssmenu ul li a span {
+	font-size: 18px;
+}
+.textlarge #cssmenu ul ul li a {
+	font-size: 16px;
+	background: rgba(0, 0, 0, 0) url("/imagini/domenii-link-icon.jpg") no-repeat scroll 17px center;
+}
+
+/********** INFORMATII GENERALE **********/
+
+.textlarge .domenii-interes-sidebar h1 a, .domenii-interes-sidebar h1.selected {
+	font-size: 18px;
+}
+
+/********** MENIU USER LOGAT **********/
+
+.textlarge .main-user-menu-top li a {
+	font-size: 18px;
+}
+.textlarge ul.main-user-menu-top ul li a {
+	font-size: 16px;
+}
+
+/********** PARAGRAFE **********/
+.textlarge .csslabel100 {
+	font-size: 16px;
+}
+.textlarge .div-paragraf {
+	font-size: 16px;
+}
+.textlarge .editare-procedura-tabs input {
+	padding: 7px 5px;
+	font-size: 16px;
+}
+/********** FOOTER **********/
+
+.textlarge .footer-wrapper, .textlarge #footer-info {
+	font-size: 15px;
+}
+.textlarge #footer-info ul li {
+	margin: 0 10px;
+}
+.textlarge #footer-info ul li:first-child {
+	display: block;
+	margin-bottom: 10px;
+}
+.textlarge #footer-info ul li:nth-child(2) {
+	margin-left: 0
+}

@@ -1,0 +1,358 @@
+﻿.dd-menu-placeholder {
+	
+}
+.dd-menu-placeholder::first-line {
+	display: none;
+}
+@media (min-width: 740px) {
+	#ddmenu {
+		display:none !important;
+	}
+}
+@media only screen and (max-width: 1024px) {
+
+/* Ascundere */
+#s4-titlerow, #s4-ribbonrow, #suiteBar { display: none !important;  } /* ascuns titlu de pagina de sus */ 
+/*.homepage-banner {
+	display: none !important;
+}*/
+/* END Ascundere */
+
+body {
+	/* Without this, the body has excess horizontal scroll when the menu is open */
+  overflow-x: hidden;
+}
+
+/* Micro reset */
+*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
+html, body { height: 100%; width: 100%; }
+
+    .sticky-header .inner-header {
+		left: auto;
+	    min-height: auto;
+	    position: relative !important;
+	    top: auto;
+	}
+	.sticky-header .outer-header-menu .header-menu {
+		padding: 15px 15px 20px;
+	}
+	.sticky-header .outer-header-menu {
+		margin-right: 0;
+	}
+	.top-header-wrapper {
+		width: 100%;
+	}
+	.top-header-links {
+		padding:11px 0;
+	}
+	.top-header-search {
+		display:none;
+	}
+	.header-menu {
+		width: 100%;
+		text-align: center;
+		padding: 15px 15px 20px;
+	}
+	.share-print-sidebar {
+		display:none;
+	}
+	#contentBox {
+		min-width: 100%;
+    	width: 100%;
+	}
+	#contentRow {
+		max-width: 100%;
+		padding: 20px 0;
+}
+	.main-wrapper {
+        width: 100%;
+        padding:0 20px;
+    }
+    #homepage-banner {
+		min-height:auto;
+		background: none;
+	}
+	#main {
+		padding:0;
+	}
+	.banner-wrapper {
+		width: 100%;
+	}
+	.hp-banner-left, .hp-banner-right {
+		display: inline-block;
+	    padding: 0 20px;
+	    text-align: center;
+	    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	    width: 100%;
+	    margin-bottom: 1px;
+	}
+	.hp-banner-left ul.banner-left-list {
+		width: 100%;
+	}
+	.hp-banner-left ul li, .hp-banner-right ul li {
+		width: 33%;
+		background: none;
+		display: inline-block;
+		text-align: center;
+		margin-bottom: 20px;
+		padding: 0 15px;
+	}
+	.hp-banner-left ul li:hover, .hp-banner-right ul li:hover {
+		margin-left: 0 !important;
+	}
+	.hp-banner-left ul li:nth-child(1), .hp-banner-left ul li:nth-child(2), .hp-banner-left ul li:nth-child(4), .hp-banner-left ul li:nth-child(5) {
+		border-right: 1px solid #fff;
+	}
+	.hp-banner-right ul li:nth-child(1), .hp-banner-right ul li:nth-child(2), .hp-banner-right ul li:nth-child(4), .hp-banner-right ul li:nth-child(5) {
+		border-right: 1px solid #fff;
+	}
+    .hp-banner-left {
+		background: rgba(0, 0, 0, 0) url("imagini/homepage-banner-background.jpg") no-repeat scroll left top;
+	}
+	.hp-banner-right {
+		background: rgba(0, 0, 0, 0) url("imagini/homepage-banner-background.jpg") no-repeat scroll right top;
+	}
+	.hp-banner-left span, .hp-banner-right span {
+		margin-bottom: 20px;
+	}
+	.hp-banner-left span a, .hp-banner-right span a {
+	display:inline-block;
+	}
+    .hp-servicii-accesate {
+        width: 100%;
+        height:auto;
+        margin: 0 0 20px;
+        float: none;
+        display: block;
+    }
+    .hp-servicii-accesate ul li:last-child {
+        margin-bottom: 0;
+    }
+    .hp-stiri, .hp-depune-petitie, .hp-infiinteaza-firma, .hp-vezi-formulare {
+		float:none;
+		text-align:center;
+		margin-right: 0;
+	}
+    .hp-stiri a, .hp-depune-petitie a, .hp-infiinteaza-firma a, .hp-vezi-formulare a {
+		width: 100%
+	}
+	.hp-stiri {
+    	background: rgba(0, 0, 0, 0) url("imagini/stiri-box-background.png") repeat-x scroll center top;
+	}
+	.hp-vezi-formulare {
+    	background: rgba(0, 0, 0, 0) url("imagini/formulare-box-background.png") repeat-x scroll center top;
+	}
+	.hp-depune-petitie {
+    	background: rgba(0, 0, 0, 0) url("imagini/petitie-box-background.png") repeat-x scroll center top;
+	}
+	.hp-infiinteaza-firma {
+    	background: rgba(0, 0, 0, 0) url("imagini/firma-box-background.png") repeat-x scroll center top;
+	}
+
+	#footer {
+		padding: 20px 20px 10px;
+	}
+	.footer-wrapper {
+		width: 100%;
+	}
+	.footer-wrapper ul {
+		margin: 10px 0;
+	}
+	.footer-wrapper ul li {
+		margin: 10px 20px;
+	}
+	
+	#footer-info ul {
+		text-align: center;
+		width: 100%;
+	}
+	#footer-info ul li {
+		display: block;
+	    margin: 0 0 10px !important;
+	    padding: 5px 0;
+    }
+    
+    .PnlCatalog {
+		/*padding:0 20px;*/
+	}
+    .pnlCatalogStanga {
+	display: block;
+    margin-right: 0;
+    width: 100%;
+	}
+	.pnlCatalogDreapta {
+    display: block;
+    margin-top: 20px;
+    vertical-align: top;
+    width: 100%;
+	}
+
+}
+
+@media only screen and (max-width: 740px) {
+	.hp-banner-left ul li, .hp-banner-right ul li {
+		width: 49.5%;
+	}
+	.hp-banner-left ul li:nth-child(1), .hp-banner-left ul li:nth-child(3), .hp-banner-left ul li:nth-child(5) {
+		border-right: 1px solid rgba(255,255,255,0.8);
+	}
+	.hp-banner-left ul li:nth-child(2), .hp-banner-left ul li:nth-child(4), .hp-banner-left ul li:nth-child(6) {
+		border-right: none;
+	}
+	.hp-banner-right ul li:nth-child(1), .hp-banner-right ul li:nth-child(3), .hp-banner-right ul li:nth-child(5) {
+		border-right: 1px solid rgba(255,255,255,0.8);
+	}
+	.hp-banner-right ul li:nth-child(2), .hp-banner-right ul li:nth-child(4), .hp-banner-right ul li:nth-child(6) {
+	border-right: none;
+	}
+	#contentBox {
+		min-width: 100%;
+    	width: 100%;
+    	padding: 0 10px;
+	}
+	.outer-header-menu {
+		display:none;
+	}
+	.sticky-header .outer-header-bar {
+		height: auto;
+    	margin-right: 0;
+	}
+	.sticky-header .top-header-bar {
+		height:auto;
+	}
+	.top-header-bar {
+		display: block;
+	    height: auto;
+	    min-height: 45px;
+	}
+	#header-wrapper {
+		background-color: #0179ad;
+		background-image:none;
+		min-height:auto;
+	}
+	.stire-read-more {
+		position:relative;
+		margin-top: 10px;
+	}
+	.cssServiciiDomeniiInteres {
+	    display: block;
+	    float: none;
+	    width: 100%;
+	}
+	.cssPanelServiciiDomeniiInteresPF, .cssPanelServiciiDomeniiInteresPJ {
+		display: block;
+	    float: none;
+	    width: 100%;
+	    margin: 0 0 20px;
+	}
+	.cssPanelHarta {
+		width: 100%;
+	}
+	.cssPanelVeziTot {
+		width: 100%;
+	}
+	.cssPanelVeziTot a {
+		width: 100%;
+	}
+	.cssPanelServiciiHarta {
+		width: 100%;
+		margin-top: 20px;
+	}
+	.catalog-harta-link {
+		height: auto;
+	    padding: 0;
+	    width: 100%;
+	}
+}
+
+@media only screen and (max-width: 530px) {
+	.hp-banner-left ul li, .hp-banner-right ul li {
+		width: 100%;
+		border-bottom: 1px solid rgba(255,255,255,0.8);
+		border-right: none !important;
+		margin-bottom: 5px;
+		padding-bottom: 5px;
+	}
+	a.alege-persoana-fizica {
+		margin-bottom: 20px;
+	}
+	#contentBox {
+		padding: 0 10px;
+		min-width: 100%;
+	    width: 100%;
+	}
+	.top-header-wrapper {
+	
+	}
+	.logo-header {
+		float: none;
+    	height: 29px;
+    	margin: 0 auto 10px;
+	}
+	.top-header-nav {
+		float:none;
+		display: block;
+	}
+	.top-header-links {
+		background-color: #0179ad;
+	    display: block;
+	    padding: 11px 0;
+	    width: 100%;
+	    text-align:center;
+	}
+	.top-header-links li {
+		margin: 5px 0;
+	}
+	.top-header-links li:nth-child(1) {
+		display:inline-block;
+	}
+	.top-header-links li:nth-child(2), .top-header-links li:nth-child(3), .top-header-links li:nth-child(4) {
+		display:block;
+	}
+	.top-header-links a {
+		border:none;
+	}
+	a.label-catalog-vezi-servicii, a.label-catalog-vezi-servicii-inline {
+		position:relative;
+		bottom:auto;
+		right:auto;
+		display:block;
+	}
+	.cssPanelVeziTot a {
+		font-size: 16px;
+	    padding: 5px 0;
+	}
+	/********** PAGINA LOGIN ***********/
+	.login-form, .login-left, .login-right, .g-recaptcha {
+		width: 100%;
+	}
+	.login-form-content {
+		padding: 10px;
+	    width: 100%;
+	}
+	.login-rows p {
+		margin: 0 0 10px;
+	    width: 100%;
+	}
+	.linkuri-login {
+		height: auto;
+		margin-top: 0 !important;
+	}
+	
+	/********** PAGINA CONT NOU ********/
+	
+	.content-left-sidebar {
+		min-width: auto;
+		padding: 10px;
+	}
+	.tblCells p {
+		display: block;
+	    margin-right: 0;
+	    width: 100%;
+	}
+
+}
+
+
+
+
